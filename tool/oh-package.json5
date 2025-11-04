@@ -1,0 +1,32 @@
+{
+  "name": "harmonyos",
+  "version": "1.0.0",
+  "description": "工具类模块，包含日期处理、日志打印等功能",
+  "main": "Index.ets",
+  "author": "whyh <a1729328500@163.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "utility",
+    "date",
+    "logger"
+  ],
+  "repository": "https://github.com/1729328500/HarmonyOS_Tool.git",
+  "homepage": "https://github.com/1729328500/HarmonyOS_Tool",
+  "bugs": {
+    "url": "https://github.com/1729328500/HarmonyOS_Tool/issues",
+    "email": "a1729328500@163.com"
+  },
+  "engines": {
+    "harmonyos": ">=5.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE.txt"
+  ]
+}
