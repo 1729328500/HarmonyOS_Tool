@@ -1,5 +1,5 @@
 {
-  "name": "harmonyos",
+  "name": "whyh_tool",
   "version": "1.0.0",
   "description": "工具类模块，包含日期处理、日志打印等功能",
   "main": "Index.ets",
@@ -9,7 +9,8 @@
     "harmonyos",
     "utility",
     "date",
-    "logger"
+    "logger",
+    "string"
   ],
   "repository": "https://github.com/1729328500/HarmonyOS_Tool.git",
   "homepage": "https://github.com/1729328500/HarmonyOS_Tool",
